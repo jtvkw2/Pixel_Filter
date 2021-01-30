@@ -1,0 +1,13 @@
+Jacob Voyles
+Homework 2: SnapShot
+Challenge Version
+
+1. The first thing that I did was read through all the files to get a sense of how this program operated and what methods I could call. Then just worked down the list implementing the different functions.
+
+2. One thing that works and doesn't is that my code for rotation could likely have been refactored into another class file, but do to the natures of the conversions that I did, it would have been difficult to implement and not improved it all that much.
+
+3. When I realized that I could refactor my blurs into a different class and didn't need to hard code each of them individually. I should have realized that sooner and it would have taken me a lot less time to implement.
+
+4. I learned a lot about using Graphics2D for handling rotations and adjustment of Image size
+
+5. I would map out what sections might be redundant so I don't end up writing the code more than once to realize I could have just made a separate class to handle it.
